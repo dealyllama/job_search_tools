@@ -1,0 +1,177 @@
+
+ 
+ 15 years of experience in application development, software & solution architecture, with a track record of increasing responsibilities leading architecture teams in areas such as Big Data, Data Science/Machine Learning platforms, and Business Intelligence Visualization tools.
+- Demonstrated ability to transform teams and technology in a rapidly growing environment.
+- Experience in leading cross-functional teams and delivering projects using Agile development practices.
+- Knowledge of Continuous Delivery tools, DevOps practices, architecture, and Data experience, with exposure to regulated industries.
+- Proficiency with Data Technologies such as openAI, ChatGPT, and AWS.
+- Expertise in one or more programming languages: Java, Javascript, Vue.JS, NodeJS, SQL.
+- Experience with Serverless & microservices architecture.
+- Familiarity with Containers: Docker, Kubernetes.
+- Strong API design and implementation skills.
+- A commitment to staying current with the latest technology advancements in web and native mobile platforms.  
+- Have a Bachelor’s degree in Technology, Information Systems, Analysis, Business or equivalent relevant experience
+- Bring 12+ years of experience in Information Security and IT services and projects in a cloud-native, engineering-heavy technology environment
+- Bring 8+ years of people management experience
+- Are an experienced leader, able to guide teams and executives through complex, data-driven decisions
+- Possess a deep understanding of IT operations and business systems in the context of resilient business and technology processes
+- Have a track record for delivery in a complex, rapidly changing environment
+- Champion and drive a culture of continuous learning to improve execution and remove roadblocks that are holding the team back.
+- Act as a strategic partner who can translate business problems to technology solutions
+- Work effectively across the business to influence and create client value
+- Empower self-organization and responsibility within your teams  
+- 50% Strategy & Planning:
+- Partners with functional and technical leaders to identify and plan requirements necessary to meet short and long-term, multi-year business needs
+- Develops and executes strategic plans in support of key objectives in a timely and fiscally responsible manner
+- Informs and drives strategic alignment and partnerships with functional and technical peers and leaders
+- Connects the dots across multiple levels and related functions to understand the business holistically
+- Evaluate research and market analysis, including meeting with third-party vendors, on industry innovations and technology platforms to understand demand; translate findings to inform the strategy
+- Establishes and nurtures strategic vendor relationships; influences vendors to align to domain, portfolio, and enterprise strategic objectives
+- Drives growth for the business by applying technical and domain expertise to provide thought leadership and translate vision into action
+- Contributes to the customer-centric, data-driven vision, strategy, goals, and roadmap for the experience
+- Suggests proactive changes and course corrections to drive alignment of vision, strategy, goals, and roadmap with organizational core values and industry trends by assessing effectiveness and course correcting as needed
+- 10% Delivery & Execution:
+- Defines and communicates value propositions, success metrics, and outcomes
+- Documents, reviews and ensures that all quality and change control standards are met
+- Develops, plans, and implements sustainable, repeatable, and reliable processes; oversees process improvement
+- Drives operational excellence to create internal customer satisfaction and meet operational metrics, simultaneously prioritizing external customer needs
+- Responsible for driving the annual budgeting and planning process to prioritize projects and allocate the SFA assigned budget targets to develop an Annual IT Budget. Translate the Annual IT Budget into a staffing plan, including flexible resource allocation models
+- Understands and articulates the value creation and business proposition to teams and functional partners
+- Enables the Product Team to provide consistent, empathetic assistance in support of our products and services whenever the customer needs us
+- Defines, implements, and executes on a strategic initiative prioritization process
+- 40% People:
+- Provides leadership, mentoring and coaching to direct reports
+- Manages and coordinates strategic direction for staff
+- Attracts, retains, develops, and motivates top talent
+- Drives the development of leaders by conducting annual and mid-year reviews, reviewing individual development plans and providing performance feedback
+- Supports talent management efforts by monitoring the succession planning and selection process, as well as challenging and empowering leaders on individual development plans
+- An analytical and thoughtful leader who leverages data and metrics to drive decision-making
+- Prior experience leading an engineering organization of 75 or more developers
+- Passionate about building and scaling engineering orgs that emphasize an inclusive culture, with teams that are both eager to learn and deeply curious
+- Extensive experience with architecture and design of large-scale data platforms, including batch, streaming and real-time data processing
+- Experience with modern platform stacks (e.g graph QL, modern DevOps, Containerization etc)
+- A highly-collaborative partner, who enjoys working closely with product management, science and analytics teams to align the organization on joint goals
+- An engaging communicator, who makes complex and nuanced topics accessible to the larger organization through relevant examples and storytelling
+- Have demonstrated experience engaging and influencing senior executives and managing stakeholders
+- Have proven experience attracting, retaining, and growing top engineering talent  
+**Successful track record leading global teams across technology domains, and setting global standards for performance, security and service  
+  
+Successfully led global and complex cross-functional technology initiatives, while demonstrating a strong grasp of its technological impact on achieving its long term business goals  
+  
+Extensive experience driving large scale process improvement initiatives for automation optimization, cloud delivery, and delivering a reduction in cost and time to deployment  
+  
+Extensive experience being responsible for owning strategic vendor relationships and managing financial and service level negotiations  
+  
+Successfully led strategic vendor negotiations, including determining product or service roadmaps and influencing vendor to create/customize product to meet Mastercard business needs  
+  
+Successful track record building strategic, collaborative, and inter-dependent working relationships with global stakeholders, that result in long-term benefits and win-win outcomes for all parties  
+  
+Extensive experience leading and developing a global workforce that spans across all time zones and geographies  
+  
+Extensive experience engaging with senior stakeholders to discuss issues of strategic importance, communicate difficult issues, and get consensus and buy-in on major business decisions  
+  
+Proven ability to coach and develop organizational leadership talent through career milestones and progression, planning for succession and talent pipeline within own business/function, and selecting and onboarding talent  
+
+- A passion to serve the needs of production and cross-functional teams  within the Netflix organization.
+- Must be comfortable working with ambiguity and able to drive projects to completion with transparency and clarity.
+- Significant experience in Project/Program Management for software development
+- Experience with games across various genres from casual to core
+- Experience managing projects through the development lifecycle from business case/pre-production to launch/post launch management, has worked on content development/release and live operations through the game lifecycle 
+- Experience working on multiple projects simultaneously
+- Experience in partner management, internally or externally, working with licensors a plus
+- A history of collaboration with release management, production and live operations of games
+- Strong relationship-building skills
+- Proactive risk management 
+- Adept at collaboratively moving from uncertainty to clarity
+- Excellent, precise, and proactive communicator
+- Technical Project Management / Program Management / Production experience nice to have
+- - Bachelor's degree in Computer Science, a related technical field, or equivalent practical experience required. A Master's degree or MBA is a plus.
+- 12+ years of experience as an architect and engineering leader in a B2B, SaaS environment
+- 6+ years of people management experience across multiple teams, geographies, and leaders
+- Prior experience engineering SaaS solutions for video use cases is required
+- Proven ability to build engaged, high–performing teams that thrive in fast-paced global environments
+- Extensive knowledge of agile methodologies, continuous integration/delivery, automated end-to-end testing practices and well versed in modern architecture
+- Expertise in cloud based systems and products (e.g., applications, infrastructure, storage, platforms, data and security), and deep understanding of market trends and emerging technologies.
+- Experience with multi-tenant SaaS solutions, hybrid cloud deployments, and on-premise-to-cloud migration deployments
+- Results driven with an unwavering commitment to quality
+- Passion for wowing and delighting customers and stakeholders
+- Strong written and verbal communication skills with executive presence; ability to influence, educate and inspire others
+- Comfortable with managing multiple work streams, coordinating resources and prioritizing work across teams
+- Collaborative “One Team” Mindset - focus on building trust and respect that goes beyond organizational boundaries
+- Roll Up Your Sleeves Attitude - willingness to support day to day operations
+- Strategic Thinker - ability to see and think ahead to future possibilities and translate into breakthrough strategies  
+- 6+ years of experience delivering services related to Cloud technologies
+- 5+ years of experience leading technical teams
+- Degree in Computer Technology or equivalent experience
+- Experience building plans, strategies, and governance related to cloud adoption
+- Experience designing support and resource plans related to cloud operations
+- Strong consulting and advising skillsets
+- Strong understanding of cloud computing technology and infrastructure as well as experience designing and migrating applications to the cloud.
+- Experience with both Azure and AWS
+- Understanding of hybrid cloud environments
+- Hands on experience with establishing net new/green field cloud environments
+- Experience with the full life cycle of a cloud migration, either with MS Azure or AWS
+- Experience with architecture and automation of Infrastructure as a Service and Platform as a Service capabilities including virtual networks, virtual machines/EC2, cloud services, web sites, data services etc.
+- Understanding of cloud-based data analytics solutions
+- Architect level certifications for Azure or AWS
+- A passion for staying up to date on the rapidly changing Cloud landscape
+- 5+ years of healthcare related IT experience
+- Strong understanding of hybrid and multi-cloud networking architecture
+- Experience with SaaS/Cloud protection solutions (e.g., CASB)
+- Experience with SQL and NoSQL database systems
+- Information systems security certification (e.g. Security +, CISSP)
+- Experience with consulting engagements
+- Kubernetes/Containers experience
+- HPC experience
+- Epic EHR experience
+- Generative AI experience
+- - 15+ years managing leaders of software engineering teams in software products
+- Demonstrated history of leadership with the ability to drive the recruitment, development, and performance of a world-class distributed engineering team
+- Excellent technical communication skills and the ability to effectively inform all levels of the organization
+- Ability to form and articulate a strategy for platform modernization along with cultivating the buy-in necessary to execute
+- Experience leading a domestic and globally distributed engineering team
+- Track record of effectively aligning engineering practices with organizational strategy to deliver business results
+- Technical experience running software on mainframe is preferred
+- Proven leadership experience with the ability to attract and retain top engineering talent
+- Able to partner with key stakeholders, including: Executives, Product Management, Customer Success, Marketing, Sales, and Customers
+- Ability to manage budgets and make financial decisions to maintain expense controls within a growing business required
+- Ability to break down a strategic roadmap into a focused series of wins that the team can rally around.
+- Ability to identify multiple solutions to problems and choose the right one for the situation
+- Proven experience to streamline processes and automate to maximum efficiency
+- Technical experience with Cloud and Data integration software  
+-  12+ years of experience leading engineering teams including 10+ years leading a team of engineering leaders
+- Past responsibility for a stream of work encompassing different engineering disciplines including ideally some experience bridging development with release engineering or security.
+- High EQ leader with excellent communication skills. Able to earn trust/respect, rally a team around shared goals and bring out the best in people.
+- Strong strategic business acumen, problem- solving ability and a constant champion of continuous improvement
+- Experience managing the development of a mobile-first cloud-native consumer tech product or B2B software product
+- Experience working in a regulated industry, insurance or financial services
+- Strong knowledge of Lean and Agile methodologies with experience coaching teams on how to make MVP tradeoffs
+- BS/MS in Computer Science or related field  
+- 10+ years of experience in software engineering, infrastructure management, or cloud architecture, with at least 5 years in a leadership or management role.
+- Extensive hands-on experience with hybrid cloud architectures, including public cloud providers (e.g., AWS, Azure, Google Cloud) and on-premises infrastructure.
+- Proficiency in cloud-native technologies and services (e.g., Kubernetes, Docker, Terraform, AWS Lambda) and infrastructure-as-code tools (e.g., CloudFormation, Terraform).
+- Proven track record of driving technical innovation, delivering complex projects on time and within budget, and collaborating effectively across organizational boundaries.
+- Knowledge of animation/VFX pipelines, software (e.g., Maya, Houdini, Nuke), rendering techniques, and related technologies preferred.
+- Familiarity with project management methodologies (e.g., Agile, Scrum) and tools (e.g., JIRA, ShotGrid) preferred.
+- Excellent leadership, communication, and interpersonal skills, with the ability to inspire and motivate teams to achieve their goals.  
+        
+- 15+ years of experience in Engineering, including creating and driving roadmaps from conception to launch
+    
+- Deep domain expertise in enterprise Sales including best practices to drive and support industry-leading Account Management, Opportunity Management, Sales Planning and Performance, and Sales Enablement
+    
+- Proven track record landing quantifiable business impact in partnership with cross-functional teams including business stakeholders, product management, UX, and architecture
+    
+- Experience with technical concepts, modern engineering practices, and influencing technical leaders
+    
+- Experience driving global and complex business transformations
+    
+- Experience scaling and retaining high functioning Engineering teams
+    
+- Passion of building highly performant, highly-scalable systems. Data-driven decision making - high attention to the quality of code, health of services, agility and velocity of teams, etc.
+    
+- Deep expertise with Agile methodologies and driving incremental value
+    
+- Bachelor's degree in computer science, related field, or equivalent practical experience
+    
+  
+  
