@@ -2,7 +2,7 @@ import nltk
 from nltk.collocations import *
 
 #setup
-file = 'sanitized_requirements.corpus.txt'
+file = 'sanitized_full_corpus.txt'
 frequency_filter = 3
 bigram_search_window_size = 3
 trigram_search_window_size = 8
