@@ -11,8 +11,8 @@ nltk.download('wordnet')
 nltk.download('omw-1.4')    
 
 #setup
-file = 'job_requirements_corpus.txt'
-output_file = 'sanitized_requirements.corpus.txt'
+file = 'job_description_corpus.txt'
+output_file = 'sanitized_description_corpus.txt'
 file_text = open(file, "r", encoding='utf-8').read()
 clean_text = re.sub(f"[{re.escape(punctuation)}]", " ", file_text)
 stop_words = set(stopwords.words('english'))
@@ -22,6 +22,7 @@ sentences = sent_tokenize(clean_text)
 
 #remove stop words
 for i in range(len(sentences)):
+    sentences[i] = sentences[i].lower()
     words = word_tokenize(sentences[i])
     clean_sentence = [word for word in words if word not in stop_words]
     sentences[i] = ' '.join(clean_sentence)
