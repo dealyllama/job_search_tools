@@ -19,14 +19,21 @@ f = open(file, "r", encoding='utf-8')
 raw = f.read()
 tokens = nltk.word_tokenize(raw)
 
+#first up let's spit out or freqdist of most common terms
+fdist = nltk.FreqDist(tokens)
+print("Most common terms:")
+for word, frequency in fdist.most_common(50):
+    print(f"{word}: {frequency}")
+
 #get our bigrams
 finder = BigramCollocationFinder.from_words(tokens, window_size=bigram_search_window_size)
 finder.apply_freq_filter(frequency_filter)
 scored = finder.score_ngrams(bigram_measures.raw_freq)
 
-print("Bigrams sorted by frequency:")
+print("\nBigrams sorted by frequency:")
 for bigram, score in scored:
     print(f"Bigram: {bigram} Frequency: {finder.ngram_fd[bigram]} Score: {score}")
+
 
 #get our trigramss
 finder = TrigramCollocationFinder.from_words(tokens, window_size=trigram_search_window_size)
@@ -48,20 +55,3 @@ for fourgram, score in scored:
 
 
 
-#for k,v in finder.ngram_fd.items():
-#  print(k,v)
-
-"""finder = BigramCollocationFinder.from_words(tokens, window_size=search_window_size)
-scored = finder.score_ngrams(bgm.likelihood_ratio)
-
-finder.apply_freq_filter(frequency_filter)
-
-print("Top 50 bigrams by likelihood ratio:")
-print(finder.nbest(bigram_measures.likelihood_ratio, 50))
-
-finder = TrigramCollocationFinder.from_words(tokens, search_window_size)
-finder.apply_freq_filter(frequency_filter)
-
-print("Top 50 trigrams by likelihood ratio:")
-print(finder.nbest(trigram_measures.likelihood_ratio, 50))
-"""
