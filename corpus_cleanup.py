@@ -17,6 +17,9 @@ file_text = open(file, "r", encoding='utf-8').read()
 clean_text = re.sub(f"[{re.escape(punctuation)}]", " ", file_text)
 #remove all instances of e g
 clean_text = re.sub(r"e g ", " ", clean_text)
+#remove all instances of experience - it doens't seem to bring any value to the analysis
+clean_text = re.sub(r"experience", "", clean_text)
+
 stop_words = set(stopwords.words('english'))
 
 #get our sentences
