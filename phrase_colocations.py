@@ -8,8 +8,6 @@ bigram_search_window_size = 3
 trigram_search_window_size = 8
 fourgram_search_window_size = 8
 
-
-
 bigram_measures = nltk.collocations.BigramAssocMeasures()
 trigram_measures = nltk.collocations.TrigramAssocMeasures()
 fourgram_measures = nltk.collocations.QuadgramAssocMeasures()

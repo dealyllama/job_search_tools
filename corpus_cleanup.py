@@ -11,14 +11,23 @@ nltk.download('wordnet')
 nltk.download('omw-1.4')    
 
 #setup
-file = 'job_description_corpus.txt'
-output_file = 'sanitized_description_corpus.txt'
+file = 'job_requirements_corpus.txt'
+output_file = 'sanitized_requirements_corpus.txt'
 file_text = open(file, "r", encoding='utf-8').read()
+
+#do some initial cleanup
 clean_text = re.sub(f"[{re.escape(punctuation)}]", " ", file_text)
+
+#make everything lower cases
+clean_text = clean_text.lower()
+
+#TODO - should probably move these to a stopwords list
 #remove all instances of e g
 clean_text = re.sub(r"e g ", " ", clean_text)
 #remove all instances of experience - it doens't seem to bring any value to the analysis
 clean_text = re.sub(r"experience", "", clean_text)
+#remove all instances of related - it doens't seem to bring any value to the analysis
+clean_text = re.sub(r"related", "", clean_text)
 
 stop_words = set(stopwords.words('english'))
 
